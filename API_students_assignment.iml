@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="src:main:webapp:hibernate.cfg.xml" value="af7d1bb0-4e5c-4e45-bdc0-861986c8061d" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/webapp/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
